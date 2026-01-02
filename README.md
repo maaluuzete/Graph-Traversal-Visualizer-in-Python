@@ -1,8 +1,6 @@
 # Graph Traversal Visualizer
 
-*(Inspired by the exercise  
-[Visualizador de Travessia de Grafos em Python](https://neps.academy/br/course/algoritmos-em-grafos/lesson/visualizador-de-travessia-de-grafos-em-python)  
-from Neps Academy)*
+*(Inspired by the exercise [Visualizador de Travessia de Grafos em Python](https://neps.academy/br/course/algoritmos-em-grafos/lesson/visualizador-de-travessia-de-grafos-em-python) from Neps Academy)*
 
 This project was developed inspired by the **Visualizador de Travessia de Grafos em Python** exercise from **Neps Academy**, part of the Graph Algorithms course.  
 It is an interactive desktop application written in **Python using Pygame** that allows users to visually construct a graph and observe how **Breadth-First Search (BFS)** and **Depth-First Search (DFS)** traverse it step by step.
@@ -48,7 +46,7 @@ The project focuses on **educational visualization**, **graph construction**, an
 To run the project locally:
 
 ```bash
-git clone https://github.com/your-username/graph-traversal-visualizer.git
+git clone https://github.com/maaluuzete/Graph-Traversal-Visualizer-in-Python.git
 cd Graph-Traversal-Visualizer-in-Python
 python -m venv venv
 pip install -r requirements.txt
